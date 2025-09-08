@@ -2,6 +2,34 @@
 
 ## Material for MkDocs
 
+### 9.6.19 <small>September 7, 2025</small> { id="9.6.19" }
+
+- Added support for Python 3.14
+- Updated Bahasa Malaysia translations
+
+### 9.6.18 <small>August 22, 2025</small> { id="9.6.18" }
+
+- Updated Azerbaijani translations
+- Fixed last compat issues with [minijinja], now 100% compatible
+
+### 9.6.17 <small>August 15, 2025</small> { id="9.6.17" }
+
+- Fixed #8396: Videos do not autoplay when inside a content tab
+- Fixed #8394: Stroke width not effective in Mermaid.js diagrams
+- Fixed disappearing version selector when hiding page title
+
+### 9.6.16 <small>July 26, 2025</small> { id="9.6.16" }
+
+- Fixed #8349: Info plugin doesn't correctly detect virtualenv in some cases
+- Fixed #8334: Find-in-page detects matches in hidden search result list
+
+### 9.6.15 <small>July 1, 2025</small> { id="9.6.15" }
+
+- Updated Mongolian translations
+- Improved semantic markup of "edit this page" button
+- Improved info plugin virtual environment resolution
+- Fixed #8291: Large font size setting throws of breakpoints in JavaScript
+
 ### 9.6.14 <small>May 13, 2025</small> { id="9.6.14" }
 
 - Fixed #8215: Social plugin crashes when CairoSVG is updated to 2.8
